@@ -17,17 +17,6 @@ Explorar conceitos fundamentais de SQL utilizando um cenário realista de vendas
 * **Databricks** (ambiente de notebooks com suporte a SQL)
 * SQL ANSI (sintaxe compatível com a maioria dos bancos relacionais)
 
-## 📁 Estrutura do repositório
-
-```
-pizza-query/
-├── create_tables.sql         # Criação das tabelas do projeto
-├── insert_dados.sql          # Dados de exemplo usados nas consultas
-├── consultas_basicas.sql     # SELECTs simples e filtros
-├── consultas_agrupadas.sql   # GROUP BY, HAVING, COUNT, SUM, etc.
-├── joins_e_relacoes.sql      # JOINs entre tabelas de pedidos, clientes, pizzas, etc.
-└── README.md
-```
 
 ## ▶️ Como usar
 
